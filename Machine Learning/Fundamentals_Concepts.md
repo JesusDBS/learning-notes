@@ -26,8 +26,7 @@ There are two main categories of ML, the first one is called supervised learning
 
 ![](images/types_of_ml.jpg)
 ***
-In a nutshell, ML is about asking the computer
-to do something without giving instructions on how to do it. It has to figure out by finding patterns in the input data they receive.
+In a nutshell, ML is about asking the computer to do something without giving instructions on how to do it. It has to figure out by finding patterns in the input data they receive.
 
 # Machine Learning Models Building Framework
 
