@@ -29,6 +29,16 @@ There are two main categories of ML, the first one is called supervised learning
 In a nutshell, ML is about asking the computer
 to do something without giving instructions on how to do it. It has to figure out by finding patterns in the input data they receive.
 
+# Machine Learning Models Building Framework
+
+Overall ML consists of three main tasks: collecting data, modeling data, and deploying the model. The main focus of building ml algorithms is in modeling, for instance, to deliver practical solutions a [framework](https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/) is needed to approach different kinds of problems.
+
+![](images/machine_learning_buildin_framework.png)
+
+
+
+
+
 # References
 + [TensorFlow Developer Certificate in 2023: Zero to Mastery](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
 
